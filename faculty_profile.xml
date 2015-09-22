@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unt_tc_faculty>
+<faculty>
+	<first_name>Ryan</first_name>
+	<last_name>Boettger</last_name>
+	<position_title>Associate Professor</position_title>
+	<contact_info>
+		<office>Auditorium 314</office>
+		<phone>940-565-4458</phone>
+		<email>Ryan.Boettger@unt.edu</email>
+	</contact_info>
+</faculty>
+<faculty>
+	<first_name>Neil</first_name>
+	<last_name>Cobb</last_name>
+	<position_title>Lecture</position_title>
+	<contact_info>
+		<office>Auditorium 105</office>
+		<phone>940-565-4458</phone>
+		<email>john.cobb@unt.edu</email>
+	</contact_info>
+</faculty>
+</unt_tc_faculty>
