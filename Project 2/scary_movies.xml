@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="scary_movies.xsl"?>
+
+<scary_movies>
+	<movie_name>
+		<details>
+			<title>28 Days Later</title>
+			<summary>Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.</summary>
+			<tagline>His fear began when he woke up alone. His terror began when he realised he wasn't.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>113 min</runtime>
+			<subject>Zombie</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Thriller</genre>,
+				<genre>Science Fiction</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>UK</region>
+			<date>6/27/2003</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.6/10</imdb_rating>
+			<metascore>73/100</metascore>
+		</ratings>
+		<cast>
+			<director>Danny Boyle</director>
+			<starring>
+				<star>Alex Palmer</star>,
+				<star>Bindu De Stoppani</star>,
+				<star>Jukka Hiltunen</star>					
+			</starring>
+		</cast>
+		<box_office>
+			<estimated_budget>$8,000,000</estimated_budget>
+			<gross_revenue>$10,061,858</gross_revenue>
+		</box_office>
+	</movie_name>
+	
+	<movie_name>
+		<details>
+			<title>American Psycho</title>
+			<summary>A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.</summary>
+			<tagline>Killer looks. ; Killer inside.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>102 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Drama</genre>,
+				<genre>Horror</genre>,
+				<genre>Crime</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>4/14/2000</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.6/10</imdb_rating>
+			<metascore>64/100</metascore>
+		</ratings>
+		<cast>
+			<director>Mary Harron</director>
+			<starring>
+				<star>Christian Bale</star>,
+				<star>Reese Witherspoon</star>,
+				<star>Jared Leto</star>					
+			</starring>
+		</cast>
+		<box_office>
+			<estimated_budget>$7,000,000 </estimated_budget>
+			<gross_revenue>$4,961,015 </gross_revenue>
+		</box_office>
+	</movie_name>
+	
+	<movie_name>
+		<details>
+			<title>SAW</title>
+			<summary>Would you kill to live? When a madman tries to teach how much life is worth, two men find themselves in a room with no idea how they got there or why they're there.</summary>
+			<tagline>Live or die. Make your choice</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>103 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Psychological Thriller</genre>,
+				<genre>Horror</genre>,
+				<genre>Slasher</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>10/29/2004</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.7/10</imdb_rating>
+			<metascore>46/100</metascore>
+		</ratings>
+		<cast>
+			<director>Peter Block</director>
+			<starring>
+				<star>Cary Elwes</star>,
+				<star>Leigh Whannell</star>,
+				<star>Danny Glover</star>					
+			</starring>
+		</cast>
+		<box_office>
+			<estimated_budget>$1,200,000</estimated_budget>
+			<gross_revenue>$650,051</gross_revenue>
+		</box_office>
+	</movie_name>
+	
+	<movie_name>
+			<details>
+				<title>The Silence of the Lambs</title>
+				<summary>A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.</summary>
+				<tagline>To enter the mind of a killer she must challenge the mind of a madman.</tagline>
+				<mpaa_rating>R</mpaa_rating>
+				<runtime>118 min</runtime>
+				<subject>Serial Killer</subject>
+				<genre_type>
+					<genre>Crime</genre>,
+					<genre>Drama</genre>,
+					<genre>Thriller</genre>
+				</genre_type>
+			</details>
+			<release_info>
+				<region>USA</region>
+				<date>2/14/1991</date>
+			</release_info>
+			<ratings>
+				<imdb_rating>8.6/10</imdb_rating>
+				<metascore>84/100</metascore>
+			</ratings>
+			<cast>
+				<director>Jonathan Demme</director>
+				<starring>
+					<star>Jodie Foster</star>,
+					<star>Anthony Hopkins</star>,
+					<star>Scott Glenn</star>					
+				</starring>
+			</cast>
+			<box_office>
+				<estimated_budget>$19,000,000 </estimated_budget>
+				<gross_revenue>$13,766,814 </gross_revenue>
+			</box_office>
+	</movie_name>	
+
+	<movie_name>
+		<details>
+			<title>Se7en</title>
+			<summary>Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.</summary>
+			<tagline>Seven deadly sins. Seven ways to die. </tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>127 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Crime</genre>,
+				<genre>Mystery</genre>,
+				<genre>Drama</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>9/22/1995</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>8.6/10</imdb_rating>
+			<metascore>65/100</metascore>
+		</ratings>
+		<cast>
+			<director>David Fincher</director>
+			<starring>
+				<star>Morgan Freeman</star>,
+				<star>Brad Pitt</star>,
+				<star>Kevin Spacey</star>
+			</starring>
+		</cast>
+		<box_office>
+			<estimated_budget>$33,000,000</estimated_budget>
+			<gross_revenue>$100,125,643</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>Scream</title>
+			<summary>Attempting to cope with her mother's murder, Sydney and her horror movie-obsessed friends are stalked by a murderer who seems to have a hard time letting the past go.</summary>
+			<tagline>Don't Answer The Phone. Don't Open The Door. Don't Try To Escape.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>111 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Mystery</genre>,
+				<genre>Crime</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>12/20/1996</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.2</imdb_rating>
+			<metascore>65/100</metascore>
+		</ratings>
+		<cast>
+			<director>Wes Craven</director>
+			<starring>
+				<star>Neve Campbell</star>,
+				<star>Courtney Cox</star>,
+				<star>Drew Barrymore</star>					
+			</starring>
+		</cast>
+		<box_office>
+			<estimated_budget>$15,000,000 </estimated_budget>
+			<gross_revenue>$6,354,586</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>The Evil Dead</title>
+			<summary>Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.</summary>
+			<tagline>They got up on the wrong side of the grave. </tagline>
+			<mpaa_rating>NC-17</mpaa_rating>
+			<runtime>85 min</runtime>
+			<subject>Demonic Possession</subject>
+			<genre_type>
+				<genre>Horror</genre>
+				<genre></genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>4/15/1983</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.6/10</imdb_rating>
+			<metascore>70/100</metascore>
+		</ratings>
+		<cast>
+			<director>Sam Raimi</director>
+			<starring>
+				<star>Bruce Campbell</star>,
+				<star>Ellen Sandweiss</star>,
+				<star>Richard DeManincor</star>
+			</starring>
+		</cast>
+		<box_office>
+			<estimated_budget>$375,000</estimated_budget>
+			<gross_revenue>No Data</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>The Hills Have Eyes</title>
+			<summary>A suburban American family is being stalked by a group of psychotic people who live in the desert, far away from civilization.</summary>
+			<tagline>The lucky ones die first.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>107 min</runtime>
+			<subject>Stranded</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Thriller</genre>,
+				<genre>Slasher</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>3/10/2006</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>6.4/10</imdb_rating>
+			<metascore>52/100</metascore>
+		</ratings>
+		<cast>
+			<director>Alexandre Aja</director>
+			<starring>
+				<star>Aaron Stanford</star>,
+				<star>Kathleen Quinlan</star>,
+				<star>Vinessa Shaw</star>
+			</starring>				
+		</cast>
+		<box_office>
+			<estimated_budget>$15,000,000</estimated_budget>
+			<gross_revenue>$15,708,512</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>The Collector</title>
+			<summary>Desperate to repay his debt to his ex-wife, an ex-con plots a heist at his new employer's country home, unaware that a second criminal has also targeted the property, and rigged it with a series of deadly traps.</summary>
+			<tagline>He always takes one.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>90 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Thriller</genre>,
+				<genre>Slasher</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>7/31/2009</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>6.4/10</imdb_rating>
+			<metascore>29/100</metascore>
+		</ratings>
+		<cast>
+			<director>Marcus Dunstan</director>
+			<starring>
+				<star>William Prael</star>
+				<star>Diane Ayala Goldner</star>
+				<star>Juan Fernández</star>
+			</starring>		
+		</cast>
+		<box_office>
+			<estimated_budget> $6,000,000</estimated_budget>
+			<gross_revenue> $3,576,296</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>Halloween </title>
+			<summary>On Halloween night of 1963, 6-year old Michael Myers stabbed his sister to death. After sitting in a mental hospital for 15 years, Myers escapes and returns to Haddonfield to kill.</summary>
+			<tagline>The Night HE Came Home! </tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>91 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Thriller</genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>10/25/1978</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.9/10</imdb_rating>
+			<metascore>85/100</metascore>
+		</ratings>
+		<cast>
+			<director>John Carpenter</director>
+			<starring>
+				<star>Donald Pleasence</star>,
+				<star>Jamie Lee Curtis</star>,
+				<star>Nancy Kyes</star>
+			</starring>			
+		</cast>
+		<box_office>
+			<estimated_budget>$300,000</estimated_budget>
+			<gross_revenue>No Data</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>The Exorcist</title>
+			<summary>When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.</summary>
+			<tagline>The Devil Inside</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>122 min</runtime>
+			<subject>Possession</subject>
+			<genre_type>
+				<genre>Horror</genre>
+				<genre></genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>12/26/1973</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>8/10</imdb_rating>
+			<metascore>82/100</metascore>
+		</ratings>
+		<cast>
+			<director></director>
+			<starring>
+				<star>Ellen Burstyn</star>
+				<star>Max von Sydow</star>
+				<star>Lee J. Cobb</star>
+			</starring>			
+		</cast>
+		<box_office>
+			<estimated_budget>$8,000,000</estimated_budget>
+			<gross_revenue>$8,157,666</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>Child's Play</title>
+			<summary>A single mother gives her son a much sought after doll for his birthday, only to discover that it is possessed by the soul of a serial killer.</summary>
+			<tagline>Something's moved in with the Barclay family, and so has terror.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>87 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Thriller</genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>11/9/1988</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>6.5/10</imdb_rating>
+			<metascore>Not Rated</metascore>
+		</ratings>
+		<cast>
+			<director>Tom Holland</director>
+			<starring>
+				<star>Catherine Hicks</star>,
+				<star>Chris Sarandon</star>,
+				<star>Brad Dourif</star>
+			</starring>			
+		</cast>
+		<box_office>
+			<estimated_budget>$9,000,000 </estimated_budget>
+			<gross_revenue>$6,583,000</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>Friday the 13th</title>
+			<summary>A group of camp counselors is stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was the site of a child's drowning.</summary>
+			<tagline>They were warned...They are doomed...And on Friday the 13th, nothing will save them.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>95 min</runtime>
+			<subject>Supernatural Serial Killer</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Mystery</genre>,
+				<genre>Thriller</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>5/9/1980</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>6.5/10</imdb_rating>
+			<metascore>35/10</metascore>
+		</ratings>
+		<cast>
+			<director>Sean S. Cunningham</director>
+			<starring>
+				<star>Betsy Palmer</star>,
+				<star>Adrienne King</star>,
+				<star>Kevin Bacon</star>
+			</starring>			
+		</cast>
+		<box_office>
+			<estimated_budget>$550,000</estimated_budget>
+			<gross_revenue>$5,816,321</gross_revenue>
+		</box_office>
+	</movie_name>	
+
+	<movie_name>
+		<details>
+			<title>Children of the Corn</title>
+			<summary>A young couple is trapped in a remote town where a dangerous religious cult of children believe everyone over the age of 18 must be killed.</summary>
+			<tagline>An adult nightmare.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>92 min</runtime>
+			<subject>Stranded</subject>
+			<genre_type>
+				<genre>Horror</genre>
+				<genre></genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>5/9/1984</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>5.6/10</imdb_rating>
+			<metascore>No Score</metascore>
+		</ratings>
+		<cast>
+			<director>Fritz Kiersch</director>
+				<star>Peter Horton</star>,
+				<star>John Franklin</star>,
+				<star>Courtney Gains</star>	
+		</cast>
+		<box_office>
+			<estimated_budget>$800,000</estimated_budget>
+			<gross_revenue>$2,042,821</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>A Nightmare on Elm Street</title>
+			<summary>Several people are hunted by a cruel serial killer who kills his victims in their dreams. When the survivors are trying to find the reason for being chosen, the murderer won't lose any chance to kill them as soon as they fall asleep.</summary>
+			<tagline>If Nancy doesn't wake up screaming she won't wake up at all</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>91 min</runtime>
+			<subject>Supernatural Serial Killer</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Slasher</genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>11/16/1984</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.5/10</imdb_rating>
+			<metascore>78/100</metascore>
+		</ratings>
+		<cast>
+			<director>Wes Craven</director>
+				<star>Heather Langenkamp</star>,
+				<star>Robert Englund</star>,
+				<star>Johnny Depp</star>	
+		</cast>
+		<box_office>
+			<estimated_budget>$1,800,000</estimated_budget>
+			<gross_revenue> $1,271,000</gross_revenue>
+		</box_office>
+	</movie_name>	
+
+	<movie_name>
+		<details>
+			<title>Insidious</title>
+			<summary>A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.</summary>
+			<tagline>It's not the House that's Haunted.</tagline>
+			<mpaa_rating>PG-13</mpaa_rating>
+			<runtime>103 min</runtime>
+			<subject>Possession</subject>
+			<genre_type>
+				<genre>Drama</genre>,
+				<genre>Horror</genre>,
+				<genre>Mystery</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>4/1/2011</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>6.8/10</imdb_rating>
+			<metascore>52/100</metascore>
+		</ratings>
+		<cast>
+			<director>James Wan</director>
+				<star>Patrick Wilson</star>,
+				<star>Rose Bryne</star>,
+				<star>Ty Simpkins</star>	
+		</cast>
+		<box_office>
+			<estimated_budget>$1,500,000</estimated_budget>
+			<gross_revenue>$13,271,464</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>The Blair Witch Project</title>
+			<summary>Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.</summary>
+			<tagline>The scariest movie of all time is a true story.</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>81 min</runtime>
+			<subject>Documentary</subject>
+			<genre_type>
+				<genre>Horror</genre>
+				<genre></genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>7/30/1999</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>6.4/10</imdb_rating>
+			<metascore> 81/100</metascore>
+		</ratings>
+		<cast>
+			<director>Eduardo Sanchez</director>
+				<star>Heather Donahue</star>,
+				<star>Joshua Leonard</star>,
+				<star>Michael C. Williams</star>	
+		</cast>
+		<box_office>
+			<estimated_budget>$60,000</estimated_budget>
+			<gross_revenue>$1,512,054</gross_revenue>
+		</box_office>
+	</movie_name>		
+
+	<movie_name>
+		<details>
+			<title>The Omen</title>
+			<summary>Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the anti-christ? The devil's own son?</summary>
+			<tagline>You Have Been Warned. If Something Frightening Happens To You Today. Think About It. It May Be "The Omen."</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>111 min</runtime>
+			<subject>Antichrist</subject>
+			<genre_type>
+				<genre>Horror</genre>,
+				<genre>Mystery</genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>6/25/1976</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>7.6/10</imdb_rating>
+			<metascore>No Score</metascore>
+		</ratings>
+		<cast>
+			<director>Richard Donner</director>
+				<star>Harvey Stephens</star>,
+				<star>Gregory Peck</star>,
+				<star>Lee Remick</star>	
+		</cast>
+		<box_office>
+			<estimated_budget>$2,800,000</estimated_budget>
+			<gross_revenue>$4,273,886</gross_revenue>
+		</box_office>
+	</movie_name>	
+	
+	<movie_name>
+		<details>
+			<title>The Shining</title>
+			<summary>A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.</summary>
+			<tagline>The Horror is driving him crazy</tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>146 min</runtime>
+			<subject>Haunted Hotel</subject>
+			<genre_type>
+				<genre>Drama</genre>,
+				<genre>Horror</genre>
+				<genre></genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>5/23/1980</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>8.4/10</imdb_rating>
+			<metascore>61/100 </metascore>
+		</ratings>
+		<cast>
+			<director>Stanley Kubrick</director>
+				<star>Jack Nicholson</star>,
+				<star>Shelley Duvall</star>,
+				<star>Danny Lloyd</star>	
+		</cast>
+		<box_office>
+			<estimated_budget> $19,000,000 </estimated_budget>
+			<gross_revenue>$622,337</gross_revenue>
+		</box_office>
+	</movie_name>
+	
+	<movie_name>
+		<details>
+			<title>Psycho</title>
+			<summary>A Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.</summary>
+			<tagline>A new- and altogether different- screen excitement!!! </tagline>
+			<mpaa_rating>R</mpaa_rating>
+			<runtime>109 min</runtime>
+			<subject>Serial Killer</subject>
+			<genre_type>
+				<genre>Mystery</genre>,
+				<genre>Horror</genre>,
+				<genre>Thriller</genre>
+			</genre_type>
+		</details>
+		<release_info>
+			<region>USA</region>
+			<date>9/8/1960</date>
+		</release_info>
+		<ratings>
+			<imdb_rating>8.6/10</imdb_rating>
+			<metascore>No Score</metascore>
+		</ratings>
+		<cast>
+			<director>Alfred Hitchcock</director>
+				<star>Anthony Perkins</star>,
+				<star>Vera Miles</star>,
+				<star>John Gavin</star>	
+		</cast>
+		<box_office>
+			<estimated_budget>$19,000,000</estimated_budget>
+			<gross_revenue>$622,337</gross_revenue>
+		</box_office>
+	</movie_name>		
+</scary_movies>
