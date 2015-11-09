@@ -1,0 +1,12 @@
+Tool Acquisition Project Proposal:
+   MadCap Flare
+
+Overview
+I plan to make a guide that describes the purpose and application of the tool, MadCap Flare. This guide will also include procedural information related to the software, as well as why the tool is important to technical communicators. The overall goal of my guide is to provide all of the essential information regarding MadCap Flare and its use in the technical communication field. I’ve been interested in learning what MadCap Flare is really used for and how to use the tool since it was mentioned at the beginning of the semester. I believe that this project has the potential to benefit not only myself but also anyone else who is unfamiliar with the tool. 
+
+Rationale 
+When researching the most valuable tools for technical communicators MadCap Flare showed up in most lists, often being noted as one of the most important tools in a technical communicator’s repertoire. I’ve heard of this tool in class before but have never actually worked with it. I think that learning enough about this tool to be able to write an informative guide about it will be extremely valuable to me in the future when jobs (or other classes) require the ability to work in Flare. An added benefit to learning how to use this software is that I might be able to use my skills in Project 3 to build a knowledge database. 
+
+Deliverables
+I will turn in a physical and digital (.PDF) guide that introduces the reader to the program, MadCap Flare, by explaining how the tool is used and what it is used for. The digital version of the document will have a hierarchy of bookmarks to aid the reader in referencing specific sections. Additionally, the guide will walk the reader through using the essential features of the program. The deliverable can be used as a reference guide for users that are just beginning to work in the program and should be provide enough information that a new user would be able to carry out basic tasks in MadCap Flare.   
+
